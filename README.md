@@ -126,6 +126,6 @@ Sample JSON payload for loan request:
 
 **Vikas Bansode**
 📧 [vikasbansode804@gmail.com](mailto:vikasbansode804@gmail.com)
-🌐 [Portfolio Website](https://vikas-portfolio-ivory.vercel.app/)
+🌐 [Portfolio Website](https://codebyvikas.xyz)
 
 
